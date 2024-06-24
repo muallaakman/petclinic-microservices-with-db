@@ -129,6 +129,7 @@
                             <failOnNoGitDirectory>false</failOnNoGitDirectory>
                         </configuration>
                     </plugin>
+                    
                 </plugins>
             </build>
 
